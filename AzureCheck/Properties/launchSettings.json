@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "AzureCheck": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7171"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "containerRunArguments": "--init",
+      "httpPort": 30241,
+      "useSSL": false
+    }
+  }
+}

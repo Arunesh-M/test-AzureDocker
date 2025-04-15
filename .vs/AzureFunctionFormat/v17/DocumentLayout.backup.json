@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arune\\Desktop\\Storage\\Web\\Mar 31 2025\\Practices\\C#\\SeleniumChecks\\AzureFunctionFormat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCAFE82-4130-46CC-B623-F7E63107E2D5}|AzureCheck\\AzureCheck.csproj|c:\\users\\arune\\desktop\\storage\\web\\mar 31 2025\\practices\\c#\\seleniumchecks\\azurefunctionformat\\azurecheck\\azuretest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCAFE82-4130-46CC-B623-F7E63107E2D5}|AzureCheck\\AzureCheck.csproj|solutionrelative:azurecheck\\azuretest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCAFE82-4130-46CC-B623-F7E63107E2D5}|AzureCheck\\AzureCheck.csproj|c:\\users\\arune\\desktop\\storage\\web\\mar 31 2025\\practices\\c#\\seleniumchecks\\azurefunctionformat\\azurecheck\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3FCAFE82-4130-46CC-B623-F7E63107E2D5}|AzureCheck\\AzureCheck.csproj|solutionrelative:azurecheck\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCAFE82-4130-46CC-B623-F7E63107E2D5}|AzureCheck\\AzureCheck.csproj|c:\\users\\arune\\desktop\\storage\\web\\mar 31 2025\\practices\\c#\\seleniumchecks\\azurefunctionformat\\azurecheck\\azurecheck.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3FCAFE82-4130-46CC-B623-F7E63107E2D5}|AzureCheck\\AzureCheck.csproj|solutionrelative:azurecheck\\azurecheck.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\arune\\Desktop\\Storage\\Web\\Mar 31 2025\\Practices\\C#\\SeleniumChecks\\AzureFunctionFormat\\AzureCheck\\Dockerfile",
+              "RelativeDocumentMoniker": "AzureCheck\\Dockerfile",
+              "ToolTip": "C:\\Users\\arune\\Desktop\\Storage\\Web\\Mar 31 2025\\Practices\\C#\\SeleniumChecks\\AzureFunctionFormat\\AzureCheck\\Dockerfile",
+              "RelativeToolTip": "AzureCheck\\Dockerfile",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAD4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-05T07:36:41.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AzureCheck.csproj",
+              "DocumentMoniker": "C:\\Users\\arune\\Desktop\\Storage\\Web\\Mar 31 2025\\Practices\\C#\\SeleniumChecks\\AzureFunctionFormat\\AzureCheck\\AzureCheck.csproj",
+              "RelativeDocumentMoniker": "AzureCheck\\AzureCheck.csproj",
+              "ToolTip": "C:\\Users\\arune\\Desktop\\Storage\\Web\\Mar 31 2025\\Practices\\C#\\SeleniumChecks\\AzureFunctionFormat\\AzureCheck\\AzureCheck.csproj",
+              "RelativeToolTip": "AzureCheck\\AzureCheck.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T14:14:39.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AzureTest.cs",
+              "DocumentMoniker": "C:\\Users\\arune\\Desktop\\Storage\\Web\\Mar 31 2025\\Practices\\C#\\SeleniumChecks\\AzureFunctionFormat\\AzureCheck\\AzureTest.cs",
+              "RelativeDocumentMoniker": "AzureCheck\\AzureTest.cs",
+              "ToolTip": "C:\\Users\\arune\\Desktop\\Storage\\Web\\Mar 31 2025\\Practices\\C#\\SeleniumChecks\\AzureFunctionFormat\\AzureCheck\\AzureTest.cs",
+              "RelativeToolTip": "AzureCheck\\AzureTest.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwBgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:42:48.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
